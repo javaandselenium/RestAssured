@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-08T08:51:54 IST" name="Default suite" finished-at="2022-01-08T08:52:00 IST" duration-ms="5839">
+  <suite started-at="2022-01-15T08:27:20 IST" name="Default suite" finished-at="2022-01-15T08:27:21 IST" duration-ms="1568">
     <groups>
     </groups>
-    <test started-at="2022-01-08T08:51:54 IST" name="Default test" finished-at="2022-01-08T08:52:00 IST" duration-ms="5839">
-      <class name="CURDOperationOnGithub.DeleteOpertaion">
-        <test-method signature="deleteOperation()[pri:0, instance:CURDOperationOnGithub.DeleteOpertaion@574b560f]" started-at="2022-01-08T08:51:54 IST" name="deleteOperation" finished-at="2022-01-08T08:51:59 IST" duration-ms="5726" status="PASS">
+    <test started-at="2022-01-15T08:27:20 IST" name="Default test" finished-at="2022-01-15T08:27:21 IST" duration-ms="1568">
+      <class name="database.Test0">
+        <test-method signature="demo()[pri:0, instance:database.Test0@71c3b41]" started-at="2022-01-15T08:27:20 IST" name="demo" finished-at="2022-01-15T08:27:21 IST" duration-ms="1460" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteOperation -->
-      </class> <!-- CURDOperationOnGithub.DeleteOpertaion -->
+        </test-method> <!-- demo -->
+      </class> <!-- database.Test0 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
